@@ -148,9 +148,9 @@ a:focus {
 
 .navbar .navbar-brand {
     margin: 0;
-    font-size: 45px;
+    font-size: 35px;
     line-height: 0px;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 2px;
     transition: .5s;
     
